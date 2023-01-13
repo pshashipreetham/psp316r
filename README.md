@@ -3,15 +3,17 @@
 ## **My Profile:**
 Hi there </br>
 
-Sagely ( IoT Product)  was one such project which has met tremendous success, and won the recognition from K.T Rama Rao ( Minister of Telangana Government) and Prashanth Jeevan Patil(Warangal Urban: Collector), this has led to more inclination towards IoT and hence took up a career as an IoT Developer, within few months promoted to IoT R&D Lead, heading a team of  22 employees making IoTified Drones for IAI(Israel Aerospace Industries) and Developing a Perimeter Intrusion System for ECIL.</br>
+4+ years of experience in discrete or process MES in any manufacturing industry – Agro, Food, Semiconductor, Pharma (biotech), Automotive, and Energy.</br>
+ 
+Worked on TULIP/Thingworx/Windchill platform in functional and developer roles</br>
+ 
+Experience in integration with OT / manufacturing automation systems and other enterprise systems such as ERP</br>
+ 
+Experience with FDA-regulated industries such as pharmaceutical or medical devices.</br>
+ 
+Experience working with site process engineers, quality engineers, and application users.</br>
 
-Currently, working as an IoT developer making IoT industrial Products for Agriculture,Oil & Gas and Health sectors.
-
-Being a Microsft Certified IoT Professional and a keen interest in this field drove me to take webinars for the startups all over India who are trying to develop and launch an IoT Products. Along with that, started blogging on the topics related to IoT. </br>
-
-In May 2020, Mentored 2 startups, related to technical aspects of IoT Integration, made Pitch-decks and Executive Summary according to there product solutions. </br>
-
-With a great passion for this field and to attain my professional aspirations, looking forward to working in Embedded and IoT domains as Thingworx Freelancer. </br>
+#Thingworx #Windchill</br>
 
 ## **Tech Stack:**
 
