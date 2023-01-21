@@ -53,15 +53,15 @@ Smart Asset Integrity Management is a solution for harnessing the power of IoT f
 
 
 **Infineon Technologies - Semiconductor manufacturing company**
-**Apr 2022 - Present**
+**Apr 2022 - Present**</br>
 The Project Enables the user to link material and specification document to the part structure and save the updated part structure in Windchill.</br>
 **Responsibilities:**</br>
 1. End to End Product Development</br>
 2. Integration of Thingworx and Windchill API's</br>
 3. Feature development based on the Client specification on Thingworx and Windchill</br>
 
-**HP Footwear - Digital Performance Management & Realtime Asset Tracking**
-**Feb 2022 - PresentFeb 2022 - Present**
+**HP Footwear - Digital Performance Management & Realtime Asset Tracking**</br
+**Feb 2022 - PresentFeb 2022 - Present**</br>
 Location: Spain (Barcelona)</br>
 **Responsibilities:**</br>
 1. Manufacturing APP's(Shop Floor Monitoring Application) setup for HP</br>
@@ -70,7 +70,7 @@ Location: Spain (Barcelona)</br>
 4. Thingworx Flow Setup and Customization of Work Definitions and Job Orders as per the workflow in HP Factory</br>
 5. Development for various use cases as per requirements of Operators in the Factory of HP</br>
 
-**Baldwin Richardson Foods - Digital Performance Management (DPM) with Tulip Interfaces**
+**Baldwin Richardson Foods - Digital Performance Management (DPM) with Tulip Interfaces**</br>
 Sep 2021 - Jan 2022Sep 2021 - Jan 2022</br>
 **Responsibilities:**</br>
 1. Developing End to End Application on the Tulip Platform</br>
