@@ -43,6 +43,7 @@ Experience working with site process engineers, quality engineers, and applicati
 ## **Projects**
 
 **Smart Asset Integrity Management - SAIM**</br>
+**November 2020 - Present**</br>
 Smart Asset Integrity Management is a solution for harnessing the power of IoT for a real-time look at your system's performance. The airports of Las Vegas, Orlando, San Jose, and Seattle have all deployed SAIM.</br>
 **Responsibilities:**</br>
 1. Installation of Thingworx, Analytics Server, Kepware on Microsoft Azure VM's and Connecting the Postgres DB </br>
@@ -71,7 +72,7 @@ Location: Spain (Barcelona)</br>
 5. Development for various use cases as per requirements of Operators in the Factory of HP</br>
 
 **Baldwin Richardson Foods - Digital Performance Management (DPM) with Tulip Interfaces**</br>
-Sep 2021 - Jan 2022Sep 2021 - Jan 2022</br>
+**Sep 2021 - Jan 2022**</br>
 **Responsibilities:**</br>
 1. Developing End to End Application on the Tulip Platform</br>
 2. Developing Dashboard for OEE, Quality Metrics</br>
