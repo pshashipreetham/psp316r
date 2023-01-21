@@ -42,9 +42,9 @@ Experience working with site process engineers, quality engineers, and applicati
 
 ## **Projects**
 
-**Smart Asset Integrity Management - SAIM**
+**Smart Asset Integrity Management - SAIM**</br>
 Smart Asset Integrity Management is a solution for harnessing the power of IoT for a real-time look at your system's performance. The airports of Las Vegas, Orlando, San Jose, and Seattle have all deployed SAIM.</br>
-**Responsibilities:**
+**Responsibilities:**</br>
 1. Installation of Thingworx, Analytics Server, Kepware on Microsoft Azure VM's and Connecting the Postgres DB </br>
 2. Kepware Tag Monitoring, Scan rate changes, connecting Kepware to Industrial things in Thingworx </br>
 3. Creation of Mashup's, services, DataTables, Things, Thing Templates, Value Streams, Timers, Schedulers, Subscriptions(on any data change event) </br>
@@ -52,7 +52,7 @@ Smart Asset Integrity Management is a solution for harnessing the power of IoT f
 5. Git hub Deployment on the QA & PROD</br>
 
 
-**Infineon Technologies - Semiconductor manufacturing company**
+**Infineon Technologies - Semiconductor manufacturing company**</br>
 **Apr 2022 - Present**</br>
 The Project Enables the user to link material and specification document to the part structure and save the updated part structure in Windchill.</br>
 **Responsibilities:**</br>
@@ -60,7 +60,7 @@ The Project Enables the user to link material and specification document to the 
 2. Integration of Thingworx and Windchill API's</br>
 3. Feature development based on the Client specification on Thingworx and Windchill</br>
 
-**HP Footwear - Digital Performance Management & Realtime Asset Tracking**</br
+**HP Footwear - Digital Performance Management & Realtime Asset Tracking**</br>
 **Feb 2022 - PresentFeb 2022 - Present**</br>
 Location: Spain (Barcelona)</br>
 **Responsibilities:**</br>
