@@ -1,80 +1,240 @@
-### Shashi Preetham - (IIoT | Thingworx | Windchill | Tulip | DevOps)
-## **Profile Summary:**
-4+ years of experience in discrete or process MES in any manufacturing industry – Agro, Food, Semiconductor, Pharma (biotech), Automotive, and Energy.</br>
- 
-Worked on TULIP/Thingworx/Windchill platform in functional and developer roles</br>
- 
-Experience in integration with OT / manufacturing automation systems and other enterprise systems such as ERP</br>
- 
-Experience with FDA-regulated industries such as pharmaceutical or medical devices.</br>
- 
-Experience working with site process engineers, quality engineers, and application users.</br>
+<div align="center">
 
-#Thingworx #Windchill</br>
+<h1>Shashi Preetham</h1>
+<p><b>Founder @ PSPTechHub • Industrial Systems Architect</b></p>
 
-## **Tech Stack:**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=800&lines=Industrial+Platforms+%7C+IIoT+%7C+PLM+%7C+MES;Building+Systems+That+Run+Factories;Global+Enterprise+Deployments;From+Edge+to+Intelligence" />
 
-• **Programming Languages:** C/C++, Core Java, Javascript, Python</br>
-• **Web Languages:** HTML, CSS, JavaScript. </br>
-• **Software & Tools:** STM32 System Workbench, STM32CubeMx, Code Composer Studio, Arduino, MQTT Lens </br>
-• **Microcontroller:**  STM32 NUCLEO-F446RE, Arduino Uno/Mega, Raspberry Pi, Beagle Bone Black, SIM 800/900A GSM/GPS </br>
-• **WiFi Modules :** ESP8266, NodeMcu, ESP32, WeMos </br>
-• **Protocols:** UART, I2C, SPI, MQTT, HTTP/s, COAP</br>
-• **IoT Platforms:** Thingsbaord, Thingspeak, PubNub, OpenHab, Thingworx </br>
-• **Operating Systems:** Windows and Linux Distros</br>
+</div>
 
-## **Expertised Thingworx Developer:**
-• Installation of Thingworx, Analytics Server, Kepware on Microsoft Azure VM's and Connecting thePostgres DB</br>
-• Developing IoT Applications based on the Thingworx(Manufacturing APPs,Digital Performance Management, Navigate)</br>
-• Mashups, Services, DataTables, Timers, Subscriptions, Things, Thing Templates</br>
-• Kepware Data Logging, Data Analytics with Power BI, Thing watcher</br>
-• Guiding the team through technical issues and challenges and Bug Fixes</br>
-• Data Migration From Azure Postgres to Azure Data lake with Data Pipeline Concepts</br>
-• Delegating work and assignments to team members</br>
-• Working with departmental heads, managers, and other stakeholders to develop team goals and delegate tasks to the appropriate team member</br>
-• Collaborating with their team to identify and fix technical problems</br>
-• Analyzing users' needs and then finding applications to serve them</br>
-• Creating end goals for the team</br>
-• Architecture Design of the Project</br>
-• Guiding the team through technical issues and challenges and Bug Fixes</br>
-• Collaborating with the team to identify and fix technical problems</br>
-• Analyzing users needs and then finding applications to serve them</br>
+---
 
-## **Projects**
+## About
 
-**Smart Asset Integrity Management - SAIM**</br>
-**November 2020 - Present**</br>
-Smart Asset Integrity Management is a solution for harnessing the power of IoT for a real-time look at your system's performance. The airports of Las Vegas, Orlando, San Jose, and Seattle have all deployed SAIM.</br>
-**Responsibilities:**</br>
-1. Installation of Thingworx, Analytics Server, Kepware on Microsoft Azure VM's and Connecting the Postgres DB </br>
-2. Kepware Tag Monitoring, Scan rate changes, connecting Kepware to Industrial things in Thingworx </br>
-3. Creation of Mashup's, services, DataTables, Things, Thing Templates, Value Streams, Timers, Schedulers, Subscriptions(on any data change event) </br>
-4. Alarm Services, Alerts, Emails. </br>
-5. Git hub Deployment on the QA & PROD</br>
+Founder building industrial intelligence platforms across manufacturing, pharma, and OEM ecosystems.
+
+Focused on systems that operate under real-world constraints — uptime pressure, legacy complexity, and global scale.
+
+---
+
+## Impact
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/%2450M%2B-Transformation%20Impact-2563EB?style=for-the-badge" />
+      <br/><br/>
+      Enterprise programs delivered at scale
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/US%20%E2%80%A2%20EU%20%E2%80%A2%20APAC-Global%20Deployments-7C3AED?style=for-the-badge" />
+      <br/><br/>
+      Production systems across regions
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/30%2B-Manufacturing%20Sites-059669?style=for-the-badge" />
+      <br/><br/>
+      Real-world factory environments
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/30TB%2B-Industrial%20Data-F97316?style=for-the-badge" />
+      <br/><br/>
+      Time-series platforms in production
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PTC%20Community%20Champion-Recognition-111827?style=for-the-badge" />
+<br/><br/>
+Recognized ecosystem contributor
+
+</div>
+
+---
+
+## What I Build
+
+<div align="center">
+
+| Domain | Systems |
+|-------|---------|
+| Industrial IoT | Fleet intelligence, smart assets |
+| PLM | Windchill intelligence layers |
+| MES | Tulip enterprise deployments |
+| Data | Industrial time-series platforms |
+| Architecture | Edge → Cloud → Intelligence |
+
+</div>
+
+## Clients
+
+<div align="center">
+
+### Pharma & Life Sciences
+<a href="https://www.astrazeneca.com/">
+  <img src="https://img.shields.io/badge/AstraZeneca-2F80ED?style=for-the-badge&logo=astrazeneca&logoColor=white" />
+</a>
+<a href="https://www.lilly.com/">
+  <img src="https://img.shields.io/badge/Eli%20Lilly-2F80ED?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.pfizer.com/">
+  <img src="https://img.shields.io/badge/Pfizer-2F80ED?style=for-the-badge&logo=pfizer&logoColor=white" />
+</a>
+<br/>
+
+### Industrial / OEM / Manufacturing
+<a href="https://www.jlg.com/">
+  <img src="https://img.shields.io/badge/JLG-111827?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://global.abb/">
+  <img src="https://img.shields.io/badge/ABB-111827?style=for-the-badge&logo=abb&logoColor=white" />
+</a>
+<a href="https://www.otis.com/">
+  <img src="https://img.shields.io/badge/OTIS-111827?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.whirlpoolcorp.com/">
+  <img src="https://img.shields.io/badge/Whirlpool-111827?style=for-the-badge&logo=whirlpool&logoColor=white" />
+</a>
+<br/>
+
+### Automotive / Mobility
+<a href="https://www.cummins.com/">
+  <img src="https://img.shields.io/badge/Cummins-334155?style=for-the-badge&logo=cummins&logoColor=white" />
+</a>
+<a href="https://www.meritor.com/">
+  <img src="https://img.shields.io/badge/Meritor-334155?style=for-the-badge&logoColor=white" />
+</a>
+<br/>
+
+### Engineering / PLM / Technology Ecosystem
+<a href="https://www.ptc.com/">
+  <img src="https://img.shields.io/badge/PTC-2F80ED?style=for-the-badge&logo=ptc&logoColor=white" />
+</a>
+<a href="https://www.axis.com/">
+  <img src="https://img.shields.io/badge/Axis-2F80ED?style=for-the-badge&logo=axiscommunications&logoColor=white" />
+</a>
+<a href="https://www.nttdata.com/">
+  <img src="https://img.shields.io/badge/NTT%20DATA-2F80ED?style=for-the-badge&logo=nttdata&logoColor=white" />
+</a>
+<br/>
+
+### Food / Consumer Manufacturing
+<a href="https://www.baldwinrichardsonfoods.com/">
+  <img src="https://img.shields.io/badge/Baldwin%20Richardson%20Foods-111827?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.broan-nutone.com/">
+  <img src="https://img.shields.io/badge/Broan-111827?style=for-the-badge&logoColor=white" />
+</a>
+</div>
+
+## Technology Stack
+
+<div align="center">
+
+### Industrial Platforms
+
+<img src="https://img.shields.io/badge/PTC-ThingWorx-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tulip-MES-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Litmus-Edge-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Siemens-Kepware-009999?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ignition-SCADA-purple?style=for-the-badge"/>
+
+<br/>
+
+### PLM / ALM / Engineering
+<img src="https://img.shields.io/badge/PTC-Windchill-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jama-ALM-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PTC-Codebeamer-orange?style=for-the-badge"/>
+
+<br/>
+
+### Industrial Data Infrastructure
+
+<img src="https://img.shields.io/badge/HighByte-DataOps-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FactoryTalk-Rockwell-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HiveMQ-MQTT-FF6A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache-Kafka-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-Brokers-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streaming-Data-6366F1?style=for-the-badge"/>
+</div>
+
+---
+
+## Founder — PSPTechHub
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BOOTSTRAPPED-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FROM%200%20FUNDING-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILT%20FROM-SCRATCH-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOUNDER%20LED-EXECUTION-475569?style=for-the-badge"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<h2>0 → 50+</h2>
+Company built from ground up
+
+</td>
+<td align="center" width="33%">
+
+<h2>100%</h2>
+Bootstrapped growth
+
+</td>
+<td align="center" width="33%">
+
+<h2>Multi-Role</h2>
+Delivery • Sales • Hiring
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Bootstrapped founder. Built by shipping production systems.</h3>
+  <p>PSPTechHub scaled through delivery ownership, repeat customers, and long-term industrial trust.</p>
+</div>
 
 
-**Infineon Technologies - Semiconductor manufacturing company**</br>
-**Apr 2022 - Present**</br>
-The Project Enables the user to link material and specification document to the part structure and save the updated part structure in Windchill.</br>
-**Responsibilities:**</br>
-1. End to End Product Development</br>
-2. Integration of Thingworx and Windchill API's</br>
-3. Feature development based on the Client specification on Thingworx and Windchill</br>
+## Connect
 
-**HP Footwear - Digital Performance Management & Realtime Asset Tracking**</br>
-**Feb 2022 - PresentFeb 2022 - Present**</br>
-Location: Spain (Barcelona)</br>
-**Responsibilities:**</br>
-1. Manufacturing APP's(Shop Floor Monitoring Application) setup for HP</br>
-2. Developing the Features as per the Requirement based on Operator, Supervisor, Admin Roles </br>
-3. Integrating new Dashboards in the Operator Advisor</br>
-4. Thingworx Flow Setup and Customization of Work Definitions and Job Orders as per the workflow in HP Factory</br>
-5. Development for various use cases as per requirements of Operators in the Factory of HP</br>
+<div align="center">
 
-**Baldwin Richardson Foods - Digital Performance Management (DPM) with Tulip Interfaces**</br>
-**Sep 2021 - Jan 2022**</br>
-**Responsibilities:**</br>
-1. Developing End to End Application on the Tulip Platform</br>
-2. Developing Dashboard for OEE, Quality Metrics</br>
-3. Developing Dashboards for Line Metrics and Asset Metrics</br>
-4. Connection with KepServerEX and Putting logic to insert the downtime reasons based on the Tag values</br>
+<a href="https://www.linkedin.com/in/pshashipreetham">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shashi@psptechhub.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://pshashipreetham.com">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="tel:+918099838001">
+  <img src="https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<i>Industrial systems. Built to run.</i>
+</div>
